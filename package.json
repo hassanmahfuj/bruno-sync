@@ -1,0 +1,11 @@
+{
+  "name": "bruno-sync",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Build and sync Bruno collections from Swagger 2 and OpenAPI 3 specs",
+  "dependencies": {
+    "@usebruno/converters": "0.24.0",
+    "js-yaml": "4.1.0"
+  }
+}
